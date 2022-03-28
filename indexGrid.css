@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Pushster&family=Roboto&family=Roboto+Slab:wght@800&family=Spline+Sans:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+    margin: 15px;
+}
+.flex{
+    display: flex;
+}
+.title_per{
+    margin:10px;
+}
+.name{
+    font-size: 16pt;
+}
+.position{
+    font-size: 12pt;
+}
+.container_grid{
+    border:1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    margin: 2px;
+}
+p{
+    margin: 10px;
+    
+
+}
+div p:nth-child(1){
+    font-family: 'Pushster', cursive;
+}
